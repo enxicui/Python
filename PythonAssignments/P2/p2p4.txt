@@ -1,0 +1,5 @@
+fruit= 'coconut'
+letter= fruit[4]
+print(letter)
+letter=fruit[2]
+print(letter)

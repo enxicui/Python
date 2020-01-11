@@ -1,0 +1,28 @@
+animals='herd of elephants'
+seg=animals[2:2]
+print('Segment is:', seg)
+animals='herd of elephants'
+seg=animals[3:2]
+print('Segment is:', seg
+animals='herd of elephants'
+seg=animals[:2]
+print('Segment is:', seg)
+animals='herd of elephants'
+seg=animals[2:]
+print('Segment is:', seg)
+animals='herd of elephants'
+seg=animals[:]
+print('Segment is:', seg)
+
+Segment is: 
+Segment is: 
+Segment is: he
+Segment is: rd of elephants
+Segment is: herd of elephants
+
+ANSWER:
+(1)x=y: blank
+(2)x>y: blank
+(3)x is omitted: display the front y
+(4)y is omitted: display after x
+(5)x and y are omitted: display all the letters
