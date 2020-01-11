@@ -1,0 +1,4 @@
+non-Recursive program: when I input a number that very big, it can be calculated, even the time is long
+recursive program: when I input number 992, it can be calculated, when I enter number 993,
+it has an error:the program will have the RecursionError: maximum recursion depth
+exceeded in comparison

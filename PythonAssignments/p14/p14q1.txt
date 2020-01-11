@@ -1,0 +1,1 @@
+With the input number's incresing, the time of program non-recursive program is longer than the recursive program.
